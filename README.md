@@ -38,6 +38,9 @@ python Gibbs_Triangle_Cloud_Plotter.py
 ## 示例
 以下是生成的吉布斯三角云图示例：
 
+![Gibbs_Triangle_Gaussian_Fit_Surface](https://github.com/user-attachments/assets/4831ff41-f0d5-4686-8ad5-ffff6d47b852)
+
+
 ## 贡献
 欢迎提出问题、提交功能请求或贡献代码。请查看我们的 贡献指南 以了解更多信息。
 
