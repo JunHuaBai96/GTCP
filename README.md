@@ -45,4 +45,4 @@ python Gibbs_Triangle_Cloud_Plotter.py
 本项目采用 MIT License 许可协议。
 
 ## 联系
-如果你有任何问题或建议，请通过178688479@qq.com 联系我们。
+如果你有任何问题或建议，请通过1786888479@qq.com 联系我们。
