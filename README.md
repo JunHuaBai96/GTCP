@@ -13,9 +13,9 @@ GTCP 是一个将二维合金成分与其他物化性质关系绘制在吉布斯
 ## 安装
 
 请确保安装以下必要的 Python 库：
-
 ```bash
 pip install pandas matplotlib numpy scipy ternary
+```
 
 ## 使用说明
 ### 数据准备
@@ -26,9 +26,11 @@ pip install pandas matplotlib numpy scipy ternary
 
 将数据文件放置于项目目录中。
 运行主脚本 Gibbs_Triangle_Cloud_Plotter.py 生成吉布斯三角图。
-bash
+
 复制代码
+```bash
 python Gibbs_Triangle_Cloud_Plotter.py
+```
 ### 查看结果
 
 输出的图像将保存在项目目录中。你可以使用图像查看器查看结果，或者使用 Adobe Illustrator 进行进一步的后期处理。
