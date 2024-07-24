@@ -42,7 +42,7 @@ python Gibbs_Triangle_Cloud_Plotter.py
 
 
 ## 其他方法
-也可以使用origin软件绘制，其具体操作步骤详见谭春林的《Origin科研绘图与学术图表绘制从入门到精通》（ISBN : 978-7-301-34049-3），其具体项目文件见本项目“origin”文件夹，其结果示意图如下：
+使用origin软件绘制，其具体操作步骤详见谭春林的《Origin科研绘图与学术图表绘制从入门到精通》（ISBN : 978-7-301-34049-3），其具体项目文件见本项目“origin”文件夹，其结果示意图如下：
 
 ![深度](https://github.com/user-attachments/assets/3468c2a1-0b1c-437b-bf69-03eb4bf0253e)
 
