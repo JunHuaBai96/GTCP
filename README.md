@@ -41,8 +41,10 @@ python Gibbs_Triangle_Cloud_Plotter.py
 ![Gibbs_Triangle_Gaussian_Fit_Surface](https://github.com/user-attachments/assets/4831ff41-f0d5-4686-8ad5-ffff6d47b852)
 
 
-## 贡献
-欢迎提出问题、提交功能请求或贡献代码。请查看我们的 贡献指南 以了解更多信息。
+## 其他方法
+也可以使用origin软件绘制，其具体操作步骤详见谭春林的《Origin科研绘图与学术图表绘制从入门到精通》（ISBN : 978-7-301-34049-3），其具体项目文件见本项目“origin”文件夹，其结果示意图如下：
+
+![深度](https://github.com/user-attachments/assets/3468c2a1-0b1c-437b-bf69-03eb4bf0253e)
 
 ## 许可
 本项目采用 MIT License 许可协议。
