@@ -2,6 +2,8 @@
 
 GTCP 是一个将三元合金成分（Mg-Si-Al）与深度（depth）关系绘制在吉布斯三角坐标中的热图工具。通过数据插值和平滑处理，生成高质量的热图，直观地展示深度值在成分空间中的分布。
 
+<img width="6091" height="5946" alt="Depth" src="https://github.com/user-attachments/assets/efe3e09a-7ee4-4869-8d09-6ecf17caf4e2" />
+
 ## 功能
 
 - 从 Excel 文件中加载和处理三元合金成分数据（Mg、Si、Al）
@@ -67,10 +69,11 @@ python gibbs_triangle_heatmap.py
 ## 其他方法
 使用origin软件绘制，其具体操作步骤详见谭春林的《Origin科研绘图与学术图表绘制从入门到精通》（ISBN : 978-7-301-34049-3），其具体项目文件见本项目“origin”文件夹，其结果示意图如下：
 
-![深度](https://github.com/user-attachments/assets/3468c2a1-0b1c-437b-bf69-03eb4bf0253e)
+<img width="2529" height="2231" alt="Depth" src="https://github.com/user-attachments/assets/e1fe6e66-4941-4fc4-8f7f-0791a1869628" />
 
 ## 许可
 本项目采用 MIT License 许可协议。
 
 ## 联系
 如果你有任何问题或建议，请通过1786888479@qq.com 联系我们。
+
